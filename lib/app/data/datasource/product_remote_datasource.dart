@@ -1,4 +1,4 @@
-class ProductService {
+class ProductRemoteDatasource {
   dynamic getProducts() {
     return '''
 [
