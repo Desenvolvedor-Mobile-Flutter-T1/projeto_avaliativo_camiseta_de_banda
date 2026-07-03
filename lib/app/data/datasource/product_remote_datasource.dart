@@ -30,6 +30,13 @@ class ProductRemoteDatasource {
     "imagem": "assets/images/blind_guardian.jpg",
     "disponivel": true
   },
+    {
+    "titulo": "Venom",
+    "preco": 129.70,
+    "tamanhosDisponiveis": ["P", "M", "G", "GG"],
+    "imagem": "assets/images/venom.jpg",
+    "disponivel": false
+  },
   {
     "titulo": "Helloween",
     "preco": 129.90,
